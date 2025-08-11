@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am codedbydani {Daniella}
+I am codedbydani {Daniella Lauren}
 
 >- 🔭 I’m currently working on learning how to code, a foreign language, soft skills etc
 >- 🌱 I’m currently learning with help from docs.github.com to code
